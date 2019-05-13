@@ -280,7 +280,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mtvn.hyperlinkit.Hyperlinkit;
+				PRODUCT_BUNDLE_IDENTIFIER = mtvn.Hyperlinkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -299,7 +299,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mtvn.hyperlinkit.Hyperlinkit;
+				PRODUCT_BUNDLE_IDENTIFIER = mtvn.Hyperlinkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
